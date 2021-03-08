@@ -1,19 +1,19 @@
 # Icons on the footer
 rss: true
-email_address: "hello@jordanurbs.com" # Full email address, e.g. "sam@example.com"
+email_address:    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "jordanurbs"
+github: "sylhare"
 instagram:
 keybase:
 linkedin:         # Full URL
 pinterest:
 reddit:
-soundcloud: "jordanurbs"
+soundcloud:
 stack_overflow:
 stack_exchange:   # Full URL
 steam:
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: 
+  facebook: true
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit:
+  reddit: true
   linkedin:
   wordpress:
   email: true
