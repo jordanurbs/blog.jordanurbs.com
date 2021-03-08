@@ -7,13 +7,13 @@ dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "jordanurbs"
 instagram:
 keybase:
 linkedin:         # Full URL
 pinterest:
 reddit:
-soundcloud:
+soundcloud: "jordanurbs"
 stack_overflow:
 stack_exchange:   # Full URL
 steam:
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: true
+  facebook: 
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit:
   linkedin:
   wordpress:
   email: true
