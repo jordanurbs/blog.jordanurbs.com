@@ -3,13 +3,13 @@ baseurl: "/blog.jordanurbs.com"
 url: "https://jordanurbs.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: blog.jordanurbs.com                                    # site's title
+title: "blog.jordanurbs.com"                                  # site's title
 description: "jordanurbs writing"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: welcome to blog.jordanurbs.com  # Change Blog header text
+header_text: "welcome to blog.jordanurbs.com"  # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

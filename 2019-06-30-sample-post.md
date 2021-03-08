@@ -35,5 +35,10 @@ $$ \Theta \ne \Gamma $$
 
 Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci[^1]. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
 
+# Markdown way (bigger)
+![Travel]({{ "/assets/img/pexels/computer.jpeg" | relative_url}})
+# Aligner with only One (50% of width)
+{% include aligner.html images="pexels/computer.jpeg" %}
+
 [^1]: 
     {% include citation.html key="ref1" %}
