@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "https://jordanurbs.github.io/blog.jordanurbs.com"
 url: "https://jordanurbs.github.io/blog.jordanurbs.com"
 
 # THEME-SPECIFIC CONFIGURATION
