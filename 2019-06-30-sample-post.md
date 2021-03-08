@@ -3,6 +3,11 @@ layout: post
 title: Sample post
 tags: [A Tag, Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
+hide_title: true
+color: brown
+author: sylhare
+feature-img: "assets/img/feature-img/circuit.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
 ---
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
